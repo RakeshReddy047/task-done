@@ -1,0 +1,10 @@
+/* reset file will be there */
+.fa-caret-down{
+  vertical-align: middle;
+  margin-left:1px;
+}
+.logo img{
+    width:100px;
+    height:100px;
+    margin-top:-16px;
+}
